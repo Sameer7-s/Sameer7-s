@@ -1,6 +1,34 @@
 # 💫 About Me:
-# Hi, I'm Sameer 👋<br><br>I'm a Computer Science student specializing in **AI, Cloud Computing, and DevOps**.  <br>I’m passionate about building real-world projects, learning modern technologies, and improving my problem-solving skills every day.<br><br>## 🚀 About Me<br><br>- 🎓 BCA student focused on AI, Cloud Computing, and DevOps<br>- 💻 Learning Data Structures & Algorithms in C++ and Java<br>- 🧠 Interested in AI tools, automation, backend development, and SaaS products<br>- 🛠️ Building projects using React, FastAPI, Python, JavaScript, and GitHub<br>- 📈 Growth-oriented, hardworking, and always improving<br>- 🤝 Open to collaboration, hackathons, and beginner-friendly open-source projects<br><br>## 🧰 Tech Stack<br><br>- **Languages:** C++, Java, Python, JavaScript<br>- **Frontend:** React, Vite, Tailwind CSS<br>- **Backend:** FastAPI, Node.js basics<br>- **Tools:** Git, GitHub, VS Code, Postman<br>- **Learning:** DevOps, Cloud Computing, AI Agents, API Integration<br><br>## 🌱 Currently Learning<br><br>- Data Structures & Algorithms<br>- Full-stack web development<br>- AI API integration<br>- DevOps basics<br>- Building SaaS and AI-based products<br><br>## 📌 Goal<br><br>My goal is to become a strong developer who can build useful, scalable, and real-world tech products.<br><br>---<br><br>⭐ Thanks for visiting my GitHub profile!
+# 💫 About Me
 
+Hi, I'm Sameer 👋  
+I'm a Computer Science student focused on **AI, Cloud Computing, and DevOps**.
+
+I enjoy building real-world projects, learning modern technologies, and improving my problem-solving skills every day.
+
+## 🚀 Quick Intro
+
+- 💻 Learning **DSA in C++ and Java**
+- 🧠 Interested in **AI tools, automation, backend development, and SaaS**
+- 🛠️ Building projects with **React, FastAPI, Python, JavaScript, and GitHub**
+- 📈 Growth-oriented and always improving
+- 🤝 Open to collaboration, hackathons, and beginner-friendly open-source projects
+
+## 🧰 Tech Stack
+
+**Languages:** C++, Java, Python, JavaScript  
+**Frontend:** React, Vite, Tailwind CSS  
+**Backend:** FastAPI, Node.js basics  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Learning:** DevOps, Cloud Computing, AI Agents, API Integration
+
+## 🎯 Goal
+
+To become a strong developer who builds useful, scalable, and real-world tech products.
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ sameer-4a8a8634a ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameergoutam794@gmail.com) 
 
