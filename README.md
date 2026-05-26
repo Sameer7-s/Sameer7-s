@@ -18,7 +18,7 @@ I enjoy building real-world projects, learning modern technologies, and improvin
 **Languages:** C++, Java, Python, JavaScript  
 **Frontend:** React, Vite, Tailwind CSS  
 **Backend:** FastAPI, Node.js basics  
-**Tools:** Git, GitHub, VS Code, Postman  
+**Tools:** Git, GitHub, VS Code, Postman  , hugging face , openAI
 **Learning:** DevOps, Cloud Computing, AI Agents, API Integration
 
 ## 🎯 Goal
